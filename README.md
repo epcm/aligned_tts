@@ -28,11 +28,18 @@ from aligned_tts import AlignedTTS
 tts = AlignedTTS()
 result = tts.synthesize("Which people make <strong>these</strong> words?", 
                         prompt_wav="reference_speech/adult_female.wav", 
-                        manual_seed=1024, 
+                        manual_seed=200, 
                         instruct_text="Speak slowly and with emphasis.")
 print("Audio:", result.audio_path)
 print("Alignment:", result.alignment_path)
 ```
 
+```bash
+# generate example video
+./generate_mp4_from_srt.sh
+```
+
 Outputs are written to `generated_speech/` by default (`.wav`, `.json`, `.srt`).
 Set `output_dir=` to customise names and paths.
+
+Sometimes you need to try several random seeds to achieve the best emphasis.
