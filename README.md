@@ -11,7 +11,7 @@ conda activate cosyvoice
 
 # CosyVoice requirements
 cd CosyVoice
-pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/ --trusted-host=mirrors.aliyun.com
+pip install -r requirements.txt
 mkdir -p pretrained_models
 git clone https://www.modelscope.cn/iic/CosyVoice2-0.5B.git pretrained_models/CosyVoice2-0.5B
 
