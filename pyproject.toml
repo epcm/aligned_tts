@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aligned-tts"
+version = "0.1.0"
+description = "CosyVoice2 based TTS pipeline with CTC-based character alignment"
+readme = "README.md"
+authors = [{name = "Aligned TTS"}]
+license = {text = "Apache-2.0"}
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.1",
+    "torchaudio>=2.1",
+    "pandas>=1.5",
+    "transformers>=4.40",
+    "nltk>=3.9.1",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+aligned-tts = "aligned_tts.cli:main"

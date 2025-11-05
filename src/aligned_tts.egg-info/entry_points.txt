@@ -1,0 +1,2 @@
+[console_scripts]
+aligned-tts = aligned_tts.cli:main

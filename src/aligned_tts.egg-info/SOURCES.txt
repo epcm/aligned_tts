@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/aligned_tts/__init__.py
+src/aligned_tts/alignment.py
+src/aligned_tts/cli.py
+src/aligned_tts/core.py
+src/aligned_tts/paths.py
+src/aligned_tts/tts_engine.py
+src/aligned_tts/types.py
+src/aligned_tts/utils.py
+src/aligned_tts/whisperx_alignment.py
+src/aligned_tts.egg-info/PKG-INFO
+src/aligned_tts.egg-info/SOURCES.txt
+src/aligned_tts.egg-info/dependency_links.txt
+src/aligned_tts.egg-info/entry_points.txt
+src/aligned_tts.egg-info/requires.txt
+src/aligned_tts.egg-info/top_level.txt

@@ -1,0 +1,161 @@
+{
+  "segments": [
+    {
+      "text": "Which people make these words?",
+      "start": 0.0,
+      "end": 3.06,
+      "chars": [
+        {
+          "char": "W",
+          "start": 0.0,
+          "end": 0.162
+        },
+        {
+          "char": "h",
+          "start": 0.162,
+          "end": 0.182
+        },
+        {
+          "char": "i",
+          "start": 0.182,
+          "end": 0.223
+        },
+        {
+          "char": "c",
+          "start": 0.223,
+          "end": 0.243
+        },
+        {
+          "char": "h",
+          "start": 0.243,
+          "end": 0.284
+        },
+        {
+          "char": " ",
+          "start": 0.284,
+          "end": 0.426
+        },
+        {
+          "char": "p",
+          "start": 0.426,
+          "end": 0.466
+        },
+        {
+          "char": "e",
+          "start": 0.466,
+          "end": 0.547
+        },
+        {
+          "char": "o",
+          "start": 0.547,
+          "end": 0.588
+        },
+        {
+          "char": "p",
+          "start": 0.588,
+          "end": 0.669
+        },
+        {
+          "char": "l",
+          "start": 0.669,
+          "end": 0.709
+        },
+        {
+          "char": "e",
+          "start": 0.709,
+          "end": 0.75
+        },
+        {
+          "char": " ",
+          "start": 0.75,
+          "end": 0.851
+        },
+        {
+          "char": "m",
+          "start": 0.851,
+          "end": 0.993
+        },
+        {
+          "char": "a",
+          "start": 0.993,
+          "end": 1.054
+        },
+        {
+          "char": "k",
+          "start": 1.054,
+          "end": 1.074
+        },
+        {
+          "char": "e",
+          "start": 1.074,
+          "end": 1.135
+        },
+        {
+          "char": " ",
+          "start": 1.135,
+          "end": 1.52
+        },
+        {
+          "char": "t",
+          "start": 1.52,
+          "end": 1.54
+        },
+        {
+          "char": "h",
+          "start": 1.54,
+          "end": 1.662
+        },
+        {
+          "char": "e",
+          "start": 1.662,
+          "end": 1.763
+        },
+        {
+          "char": "s",
+          "start": 1.763,
+          "end": 1.804
+        },
+        {
+          "char": "e",
+          "start": 1.804,
+          "end": 1.865
+        },
+        {
+          "char": " ",
+          "start": 1.865,
+          "end": 1.925
+        },
+        {
+          "char": "w",
+          "start": 1.925,
+          "end": 2.493
+        },
+        {
+          "char": "o",
+          "start": 2.493,
+          "end": 2.513
+        },
+        {
+          "char": "r",
+          "start": 2.513,
+          "end": 2.635
+        },
+        {
+          "char": "d",
+          "start": 2.635,
+          "end": 2.736
+        },
+        {
+          "char": "s",
+          "start": 2.736,
+          "end": 2.756
+        },
+        {
+          "char": "?",
+          "start": 2.756,
+          "end": 3.06
+        }
+      ]
+    }
+  ]
+}
