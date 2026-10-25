@@ -1,0 +1,119 @@
+1
+00:00:00,000 --> 00:00:00,162
+<u>W</u>hich people make these words?
+
+2
+00:00:00,162 --> 00:00:00,183
+W<u>h</u>ich people make these words?
+
+3
+00:00:00,183 --> 00:00:00,203
+Wh<u>i</u>ch people make these words?
+
+4
+00:00:00,203 --> 00:00:00,243
+Whi<u>c</u>h people make these words?
+
+5
+00:00:00,243 --> 00:00:00,284
+Whic<u>h</u> people make these words?
+
+6
+00:00:00,284 --> 00:00:00,385
+Which people make these words?
+
+7
+00:00:00,385 --> 00:00:00,446
+Which <u>p</u>eople make these words?
+
+8
+00:00:00,446 --> 00:00:00,507
+Which p<u>e</u>ople make these words?
+
+9
+00:00:00,507 --> 00:00:00,568
+Which pe<u>o</u>ple make these words?
+
+10
+00:00:00,568 --> 00:00:00,629
+Which peo<u>p</u>le make these words?
+
+11
+00:00:00,629 --> 00:00:00,690
+Which peop<u>l</u>e make these words?
+
+12
+00:00:00,690 --> 00:00:00,730
+Which peopl<u>e</u> make these words?
+
+13
+00:00:00,730 --> 00:00:00,811
+Which people make these words?
+
+14
+00:00:00,811 --> 00:00:00,933
+Which people <u>m</u>ake these words?
+
+15
+00:00:00,933 --> 00:00:00,994
+Which people m<u>a</u>ke these words?
+
+16
+00:00:00,994 --> 00:00:01,014
+Which people ma<u>k</u>e these words?
+
+17
+00:00:01,014 --> 00:00:01,055
+Which people mak<u>e</u> these words?
+
+18
+00:00:01,055 --> 00:00:01,095
+Which people make these words?
+
+19
+00:00:01,095 --> 00:00:01,724
+Which people make <u>t</u>hese words?
+
+20
+00:00:01,724 --> 00:00:01,866
+Which people make t<u>h</u>ese words?
+
+21
+00:00:01,866 --> 00:00:01,967
+Which people make th<u>e</u>se words?
+
+22
+00:00:01,967 --> 00:00:01,988
+Which people make the<u>s</u>e words?
+
+23
+00:00:01,988 --> 00:00:02,048
+Which people make thes<u>e</u> words?
+
+24
+00:00:02,048 --> 00:00:02,312
+Which people make these words?
+
+25
+00:00:02,312 --> 00:00:02,454
+Which people make these <u>w</u>ords?
+
+26
+00:00:02,454 --> 00:00:02,474
+Which people make these w<u>o</u>rds?
+
+27
+00:00:02,474 --> 00:00:02,596
+Which people make these wo<u>r</u>ds?
+
+28
+00:00:02,596 --> 00:00:02,697
+Which people make these wor<u>d</u>s?
+
+29
+00:00:02,697 --> 00:00:02,718
+Which people make these word<u>s</u>?
+
+30
+00:00:02,718 --> 00:00:02,900
+Which people make these words<u>?</u>
